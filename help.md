@@ -1,6 +1,4 @@
-# GO
-
-The commands are:
+# The commands are:
 
         bug         start a bug report
         build       compile packages and dependencies
