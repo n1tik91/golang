@@ -18,4 +18,6 @@ func main() {
 	fmt.Printf(" division : %d / %d = %d\n", x, y, x/y)
 	//for Modulus
 	fmt.Printf(" remainder : %d %% %d = %d\n", x, y, x%y)
+
+	
 }
